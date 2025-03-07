@@ -24,7 +24,7 @@ The `county_data.json` file contains a structured array with the following forma
   }
 ]
 ```
-🏛 Data Structure:
+## 🏛 Data Structure:
 
 Counties → List of Kenya’s 47 counties.
 Constituencies → Constituencies within each county.
@@ -36,18 +36,18 @@ The data was extracted using automated scripts from official Kenyan government s
 Independent Electoral and Boundaries Commission (IEBC)
 Official public repositories from the Kenyan government.
 
-📌 How to Use
+## 📌 How to Use
 ```bash
     Clone the repository:
-    git clone https://github.com/YOUR_GITHUB_USERNAME/kenya-county-data.git
+    git clone https://github.com/stevehoober254/kenya-county-data.git
     cd kenya-county-data
     Open county_data.json and use it in your applications.
 ```
 
-📌 Contribution
+## 📌 Contribution
 If you find missing or incorrect data, feel free to submit a pull request or open an issue. Your contributions are welcome!
 
-📌 License
+## 📌 License
 This dataset is open-source and available for public use.
 When using this data, please credit IEBC and official Kenyan government sources.
 
